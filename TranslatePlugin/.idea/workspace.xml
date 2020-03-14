@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="084b9135-3c09-4036-bb74-49b42abe4e7e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Action" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1Z1wvKvrdiNkaRevRuWkG0oX7Nq" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pluginWp\TranslatePlugin\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="TranslatePlugin" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="TranslatePlugin" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="084b9135-3c09-4036-bb74-49b42abe4e7e" name="Default Changelist" comment="" />
+      <created>1584020137174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584020137174</updated>
+      <workItem from="1584020139636" duration="360000" />
+      <workItem from="1584060739110" duration="4837000" />
+      <workItem from="1584159158235" duration="6437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584106961166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="460" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584106961166" />
+    <state x="960" y="442" key="#xdebugger.evaluate" timestamp="1584180870797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="960" y="442" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1584180870797" />
+    <state x="785" y="185" key="FileChooserDialogImpl" timestamp="1584159220203">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="785" y="185" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584159220203" />
+    <state width="1860" height="336" key="GridCell.Tab.0.bottom" timestamp="1584188807137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="336" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584188807137" />
+    <state width="1860" height="336" key="GridCell.Tab.0.center" timestamp="1584188807137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="336" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584188807137" />
+    <state width="1860" height="336" key="GridCell.Tab.0.left" timestamp="1584188807137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="336" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584188807137" />
+    <state width="1860" height="336" key="GridCell.Tab.0.right" timestamp="1584188807137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="336" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584188807137" />
+    <state width="1860" height="336" key="GridCell.Tab.1.bottom" timestamp="1584188807138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584188807138" />
+    <state width="1860" height="336" key="GridCell.Tab.1.center" timestamp="1584188807137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="336" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584188807137" />
+    <state width="1860" height="336" key="GridCell.Tab.1.left" timestamp="1584188807137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="336" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584188807137" />
+    <state width="1860" height="336" key="GridCell.Tab.1.right" timestamp="1584188807138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="336" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584188807138" />
+    <state width="1860" height="336" key="GridCell.Tab.2.bottom" timestamp="1584188807138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="336" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584188807138" />
+    <state width="1860" height="336" key="GridCell.Tab.2.center" timestamp="1584188807138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="336" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584188807138" />
+    <state width="1860" height="336" key="GridCell.Tab.2.left" timestamp="1584188807138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="336" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584188807138" />
+    <state width="1860" height="336" key="GridCell.Tab.2.right" timestamp="1584188807138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="336" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584188807138" />
+    <state x="507" y="160" key="SettingsEditor" timestamp="1584180705927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="507" y="160" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584180705927" />
+    <state x="376" y="125" key="new project wizard" timestamp="1584159225177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="376" y="125" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1584159225177" />
+    <state x="669" y="238" width="672" height="678" key="search.everywhere.popup" timestamp="1584188048423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="238" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584188048423" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wh/action/TranslateAction.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wh/action/TranslateAction.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wh/action/TranslateAction.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wh/action/TranslateAction.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wh/action/TranslateAction.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
